@@ -27,3 +27,13 @@ So why is it effective?
 | Shop for what they need             | Provide an opportunity to receive feedback |
 | Learn about new things              | Drive conversions                          |
 | Have fun                            | -                                          |
+
+2. The Types of Display Ads
+- Display Ad
+: It consists of display ads which contains text and graphics in standard sizes
+
+- Video Ad
+: It occurs before, during, or after video streams in 6, 15, or 30 seconds lengths
+
+- Native Ad
+: Blends wth the published content and environment by design to look natural
