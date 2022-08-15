@@ -127,3 +127,45 @@ There are 3 general types of display advertising: Display, Video, and Native.
 Display advertising is sold through direct/guaranteed or programmatic methods.
 Display pricing models include: Impression (vCPM), Cost Per Completed View (cCPV), Flat Fee, Cost Per Click (CPC), Cost Per Thousand (CPM), and Cost Per Action (CPA).
 The success of display advertising is measured through KPIs.
+
+## Knowledge Check
+1. Shown here are some common display ad unit specifications. Select the correct description for each one from the corresponding drop-down list.
+Ad dimensions: The amount of pixels that create the width/height of the ad
+Aspect ratio: The ratio of width to height of the ad
+Maximum size: The largest number of KB/MB a file can be for a display ad
+
+2. In the __ method of selling display advertising, the sale of ads through a digital marketplace are automated and the winner of the auction has their ad placed in the designated ad space.
+[ ] Direct/Guaranteed
+[x] Programmatic
+
+3. Which of the following is a place where display advertising can be found?
+[x] Websites
+[x] Social media sites
+[x] Mobile apps and games
+[x] Email campaigns
+
+4. Shown here are different display advertising pricing models. Select the correct description for each one from the corresponding drop-down list.
+Flat Fee: The advertiser pays a set amount for a specified placement, such as a "home page takeover"
+Cost per Viewable Impression (vCPM): The advertiser pays only for ad impressions measured as viewable
+Cost Per Completed View (cCPV): The advertiser pays each time a video ad is displayed and viewed by a user in its entirely
+
+5. Shown here are the three types of display ads. Select the correct description for each one from the corresponding drop-down list.
+Display ad: Consists of display ads containing text and graphics in standard sizes
+Video ad: Occurs before, during, or after video streams in 6, 15, or 30 second lengths
+Native ad: Blends with the published content and environment by design to look natural
+
+6. Which of the following statements about display ads are true?
+[ ] Images should be abstract to gain attention
+[ ] Information presented should clearly state what the business has to offer
+[ ] Display ads should be relevant to the user based on signals collected about them
+[ ] Landing pages should provide the information users need to take action
+
+7. Display advertising is effective because it enables advertisers to do which of the following?
+[ ] Build brand awareness
+[ ] Share new products and services
+[ ] Decrease conversion rates
+[ ] Provide an opportunity to receive feedback
+
+8. Which display ad sales method usually has fixed costs/pricing?
+[x] Direct/Guaranteed
+[ ] Programmatic
